@@ -1,0 +1,10 @@
+.video-item{
+    cursor: pointer;
+}
+.video-item .video-title{
+    font-size:1.2rem !important;
+}
+.video-item .channel{
+    display: block;
+    margin-bottom: 5px;
+}
